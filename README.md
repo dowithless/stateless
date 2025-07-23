@@ -9,6 +9,18 @@
     <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Go"></a>
 </p>
 
+<p align="center">
+    <!-- Keep these links. Translations will automatically update with the README. -->
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=de">Deutsch</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=es">Español</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=fr">français</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=ja">日本語</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=ko">한국어</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=pt">Português</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=ru">Русский</a> | 
+    <a href="https://readme-i18n.com/qmuntal/stateless?lang=zh">中文</a>
+</p>
+
 # Stateless
 
 **Create *state machines* and lightweight *state machine-based workflows* directly in Go code:**
